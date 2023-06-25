@@ -17,7 +17,7 @@ Themen gehören, beispielsweise:
 
 -   Regeln für den konkreten Einsatz von Technologien
 
--   prinzipielle --- meist technische --- Festlegungen übergreifender
+-   prinzipielle---meist technische---Festlegungen übergreifender
     Art
 
 -   Implementierungsregeln
@@ -32,6 +32,34 @@ Grundlage für die innere Qualität Ihrer Systeme.
 
 Manche dieser Themen lassen sich nur schwer als Baustein in der
 Architektur unterbringen (z.B. das Thema „Sicherheit").
+Themenvorschläge:
+- Persistenz
+- Ablaufsteuerung
+- Sicherheit
+- Plausibilisierung und Validierung
+- Logging, Protokollierung, Tracing
+- Parallelisierung und Threading
+- Test und Testbarkeit
+- Codegenerierung
+- Drucken
+- Benutzeroberfläche
+- Transaktionsbehandlung
+- Kommunikation und Integration
+- Ausnahme-/Fehlerbehandlung
+- Geschäftsregeln
+- Internalierung
+- Skalierung und Clustering
+- Stapel-/Batchverarbeitung
+- Archivierung
+- Ergonomie
+- Sessionbehandlung
+- Verteilung
+- Management und Administration
+- Konfigurierbarkeit
+- Migration (von Daten)
+- Hochverfügbarkeit
+- Reporting
+- Build-Management
 -->
 
 ### **Form**

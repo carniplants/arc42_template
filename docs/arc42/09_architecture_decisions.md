@@ -31,9 +31,18 @@ Verschiedene Möglichkeiten:
 -   ADR ([Documenting Architecture
     Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions))
     für jede wichtige Entscheidung
+    - Titel
+    - Kontext
+    - Entscheidung
+    - Status
+    - Konsequenz
+
 
 -   Liste oder Tabelle, nach Wichtigkeit und Tragweite der
     Entscheidungen geordnet
+    - Kriterien
+    - Alternativen
+    - Entscheidung
 
 -   ausführlicher in Form einzelner Unterkapitel je Entscheidung
 
