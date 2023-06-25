@@ -1,4 +1,4 @@
-site_name: arc42
+site_name: mkdocs_template_se
 nav:
     - Home: 'index.md'
     - 'arc42':
