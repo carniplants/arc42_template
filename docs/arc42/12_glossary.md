@@ -3,17 +3,17 @@
 
 ### **Inhalt**
 
-
+<!---
 Die wesentlichen fachlichen und technischen Begriffe, die Stakeholder im
 Zusammenhang mit dem System verwenden.
 
 Nutzen Sie das Glossar ebenfalls als Übersetzungsreferenz, falls Sie in
 mehrsprachigen Teams arbeiten.
-
+-->
 
 ### **Motivation**
 
-
+<!---
 Sie sollten relevante Begriffe klar definieren, so dass alle Beteiligten
 
 -   diese Begriffe identisch verstehen, und
@@ -31,3 +31,5 @@ online-Dokumentation (auf Englisch!).
 |-------------|----------------|
 | *Begriff-1* | *Definition-1* |
 | *Begriff-2* | *Definition-2* |
+
+-->

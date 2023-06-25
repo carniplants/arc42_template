@@ -3,7 +3,7 @@
 
 ### **Inhalt**
 
-
+<!---
 Wichtige, teure, große oder riskante Architektur- oder
 Entwurfsentscheidungen inklusive der jeweiligen Begründungen. Mit
 "Entscheidungen" meinen wir hier die Auswahl einer von mehreren
@@ -14,18 +14,18 @@ oder wo eine lokale Beschreibung (z.B. in der Whitebox-Sicht von
 Bausteinen) sinnvoller ist. Vermeiden Sie Redundanz. Verweisen Sie evtl.
 auf Abschnitt 4, wo schon grundlegende strategische Entscheidungen
 beschrieben wurden.
-
+-->
 
 ### **Motivation**
 
-
+<!---
 Stakeholder des Systems sollten wichtige Entscheidungen verstehen und
 nachvollziehen können.
-
+-->
 
 ### **Form**
 
-
+<!---
 Verschiedene Möglichkeiten:
 
 -   ADR ([Documenting Architecture
@@ -40,3 +40,4 @@ Verschiedene Möglichkeiten:
 Siehe [Architekturentscheidungen](https://docs.arc42.org/section-9/) in
 der arc42 Dokumentation (auf Englisch!). Dort finden Sie Links und
 Beispiele zum Thema ADR.
+-->

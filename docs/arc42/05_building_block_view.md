@@ -3,7 +3,7 @@
 
 ### **Inhalt**
 
-
+<!---
 Die Bausteinsicht zeigt die statische Zerlegung des Systems in Bausteine
 (Module, Komponenten, Subsysteme, Klassen, Schnittstellen, Pakete,
 Bibliotheken, Frameworks, Schichten, Partitionen, Tiers, Funktionen,
@@ -12,21 +12,21 @@ Makros, Operationen, Datenstrukturen, ...) sowie deren Abhängigkeiten
 
 Diese Sicht sollte in jeder Architekturdokumentation vorhanden sein. In
 der Analogie zum Hausbau bildet die Bausteinsicht den *Grundrissplan*.
-
+-->
 
 ### **Motivation**
 
-
+<!---
 Behalten Sie den Überblick über den Quellcode, indem Sie die statische
 Struktur des Systems durch Abstraktion verständlich machen.
 
 Damit ermöglichen Sie Kommunikation auf abstrakterer Ebene, ohne zu
 viele Implementierungsdetails offenlegen zu müssen.
-
+-->
 
 ### **Form**
 
-
+<!---
 Die Bausteinsicht ist eine hierarchische Sammlung von Blackboxen und
 Whiteboxen (siehe Abbildung unten) und deren Beschreibungen.
 
@@ -44,9 +44,10 @@ Bausteine.
 
 Siehe [Bausteinsicht](https://docs.arc42.org/section-5/) in der
 online-Dokumentation (auf Englisch!).
+-->
 
 ## Whitebox Gesamtsystem
-
+<!---
 An dieser Stelle beschreiben Sie die Zerlegung des Gesamtsystems anhand
 des nachfolgenden Whitebox-Templates. Dieses enthält:
 
@@ -106,9 +107,9 @@ Falls Sie die ausführliche Liste von Blackbox-Beschreibungen wählen,
 beschreiben Sie jede wichtige Blackbox in einem eigenen
 Blackbox-Template. Dessen Überschrift ist jeweils der Namen dieser
 Blackbox.
-
+-->
 ### Name Blackbox 1
-
+<!---
 Beschreiben Sie die Blackbox 1 anhand des folgenden
 Blackbox-Templates:
 
@@ -139,23 +140,23 @@ Blackbox-Templates:
 *(Optional) Erfüllte Anforderungen*
 
 *(optional) Offene Punkte/Probleme/Risiken*
-
+-->
 ### Name Blackbox 2
-
+<!---
 *Blackbox-Template*
-
+-->
 ### Name Blackbox n
-
+<!---
 *Blackbox-Template*
-
+-->
 ### Name Schnittstelle 1
-
+<!---
 ...
-
+-->
 ### Name Schnittstelle m
 
 ## Ebene 2
-
+<!---
 Beschreiben Sie den inneren Aufbau (einiger) Bausteine aus Ebene 1 als
 Whitebox.
 
@@ -164,41 +165,42 @@ entscheiden. Bitte stellen Sie dabei Relevanz vor Vollständigkeit.
 Skizzieren Sie wichtige, überraschende, riskante, komplexe oder
 besonders volatile Bausteine. Normale, einfache oder standardisierte
 Teile sollten Sie weglassen.
-
+-->
 ### Whitebox *Baustein 1* 
-
+<!---
 ...zeigt das Innenleben von *Baustein 1*.
 
 *Whitebox-Template*
-
+-->
 ### Whitebox *Baustein 2*
-
+<!---
 *Whitebox-Template*
 
 ...
-
+-->
 ### Whitebox *Baustein m*
-
+<!---
 *Whitebox-Template*
-
+-->
 ## Ebene 3 
-
+<!---
 Beschreiben Sie den inneren Aufbau (einiger) Bausteine aus Ebene 2 als
 Whitebox.
 
 Bei tieferen Gliederungen der Architektur kopieren Sie diesen Teil von
 arc42 für die weiteren Ebenen.
-
+-->
 ### Whitebox \_Baustein x.1\_
-
+<!---
 ...zeigt das Innenleben von *Baustein x.1*.
 
 *Whitebox-Template*
-
+-->
 ### Whitebox \_Baustein x.2\_ 
-
+<!---
 *Whitebox-Template*
-
+-->
 ### Whitebox \_Baustein y.1\_
-
+<!---
 *Whitebox-Template*
+-->

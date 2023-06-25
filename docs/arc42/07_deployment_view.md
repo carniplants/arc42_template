@@ -3,7 +3,7 @@
 
 ### **Inhalt**
 
-
+<!---
 Die Verteilungssicht beschreibt:
 
 1.  die technische Infrastruktur, auf der Ihr System ausgeführt wird,
@@ -25,19 +25,19 @@ Aus Softwaresicht genügt es, auf die Aspekte zu achten, die für die
 Softwareverteilung relevant sind. Insbesondere bei der
 Hardwareentwicklung kann es notwendig sein, die Infrastruktur mit
 beliebigen Details zu beschreiben.
-
+-->
 
 ### **Motivation**
 
-
+<!---
 Software läuft nicht ohne Infrastruktur. Diese zugrundeliegende
 Infrastruktur beeinflusst Ihr System und/oder querschnittliche
 Lösungskonzepte, daher müssen Sie diese Infrastruktur kennen.
-
+-->
 
 ### **Form**
 
-
+<!---
 Das oberste Verteilungsdiagramm könnte bereits in Ihrem technischen
 Kontext enthalten sein, mit Ihrer Infrastruktur als EINE Blackbox. Jetzt
 zoomen Sie in diese Infrastruktur mit weiteren Verteilungsdiagrammen
@@ -54,9 +54,9 @@ hinein:
 
 Siehe [Verteilungssicht](https://docs.arc42.org/section-7/) in der
 online-Dokumentation (auf Englisch!).
-
+-->
 ## Infrastruktur Ebene 1
-
+<!---
 An dieser Stelle beschreiben Sie (als Kombination von Diagrammen mit
 Tabellen oder Texten):
 
@@ -86,24 +86,25 @@ Qualitäts- und/oder Leistungsmerkmale
 Zuordnung von Bausteinen zu Infrastruktur
 
 :   *Beschreibung der Zuordnung*
-
+-->
 ## Infrastruktur Ebene 2
-
+<!---
 An dieser Stelle können Sie den inneren Aufbau (einiger)
 Infrastrukturelemente aus Ebene 1 beschreiben.
 
 Für jedes Infrastrukturelement kopieren Sie die Struktur aus Ebene 1.
-
+-->
 ### *Infrastrukturelement 1*
-
+<!---
 *Diagramm + Erläuterungen*
-
+-->
 ### *Infrastrukturelement 2*
-
+<!---
 *Diagramm + Erläuterungen*
 
 ...
-
+-->
 ### *Infrastrukturelement n*
-
+<!---
 *Diagramm + Erläuterungen*
+-->

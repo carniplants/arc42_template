@@ -18,9 +18,17 @@ nav:
     - API:
         - 'OpenAPI': 'openapi.md'
 #        - 'Release Notes': 'release-notes.md'
+    - Tests:
+        - mermaid: 'mermaid.md'
 
 markdown_extensions:
+
 
 theme:
     name: readthedocs
     locale: de
+
+plugins:
+    - search
+    - mermaid2:
+        version: 10.2.3

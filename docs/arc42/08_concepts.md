@@ -3,7 +3,7 @@
 
 ### **Inhalt**
 
-
+<!---
 Dieser Abschnitt beschreibt übergreifende, prinzipielle Regelungen und
 Lösungsansätze, die an mehreren Stellen (=*querschnittlich*) relevant
 sind.
@@ -21,22 +21,22 @@ Themen gehören, beispielsweise:
     Art
 
 -   Implementierungsregeln
-
+-->
 
 ### **Motivation**
 
-
+<!---
 Konzepte bilden die Grundlage für *konzeptionelle Integrität*
 (Konsistenz, Homogenität) der Architektur und damit eine wesentliche
 Grundlage für die innere Qualität Ihrer Systeme.
 
 Manche dieser Themen lassen sich nur schwer als Baustein in der
 Architektur unterbringen (z.B. das Thema „Sicherheit").
-
+-->
 
 ### **Form**
 
-
+<!---
 Kann vielfältig sein:
 
 -   Konzeptpapiere mit beliebiger Gliederung,
@@ -49,11 +49,11 @@ Kann vielfältig sein:
 -   Verweise auf „übliche" Nutzung von Standard-Frameworks
     (beispielsweise die Nutzung von Hibernate als Object/Relational
     Mapper).
-
+-->
 
 ### **Struktur**
 
-
+<!---
 Eine mögliche (nicht aber notwendige!) Untergliederung dieses
 Abschnittes könnte wie folgt aussehen (wobei die Zuordnung von Themen zu
 den Gruppen nicht immer eindeutig ist):
@@ -77,17 +77,18 @@ concepts](images/08-Crosscutting-Concepts-Structure-DE.png)
 
 Siehe [Querschnittliche Konzepte](https://docs.arc42.org/section-8/) in
 der online-Dokumentation (auf Englisch).
-
+-->
 ## *Konzept 1*
-
+<!---
 *Erklärung*
-
+-->
 ## *Konzept 2*
-
+<!---
 *Erklärung*
 
 ...
-
+-->
 ## *Konzept n*
-
+<!---
 *Erklärung*
+-->

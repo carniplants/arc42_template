@@ -2,6 +2,9 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+pip install mkdocs
+pip install mkdocs-mermaid2-plugin
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
